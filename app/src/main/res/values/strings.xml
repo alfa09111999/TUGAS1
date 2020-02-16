@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tampilkan</string>
+    <string name="app_name">Layar</string>
     <string name="move_activity">Activity berpindah ke sini</string>
     <string name="move_with_data">Pindah Activity dengan Data</string>
     <string name="data">Data</string>
